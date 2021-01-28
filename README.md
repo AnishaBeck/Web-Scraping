@@ -8,10 +8,4 @@ The following packages were use:
   2. requests
   3. re
   
-23 Jan 2021
-Work so far:
-  Web scraping and some data cleaning.
-  
-Update: 25 Jan 2021
-Data cleaning done.
-updated notebook uploaded.
+Its a combination of web scrapping, data cleaning and analysis.
